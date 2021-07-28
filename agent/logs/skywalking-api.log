@@ -1,0 +1,740 @@
+INFO 2021-07-28 11:48:02:101 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:103 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.84.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:106 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-postgresql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:107 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-mvc-annotation-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:109 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:111 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jtds-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:113 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:116 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:118 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-ehcache-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:119 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-jdbc-1.5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:121 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:123 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-redisson-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:125 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:127 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:129 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/motan-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:131 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-2.7.x-conflict-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:134 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-feign-default-http-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:137 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/spring-webflux-5.x-webclient-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:138 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-quasar-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:140 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-h2-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:141 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpclient-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:144 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-scheduled-annotation-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:146 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:147 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:149 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-0.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:151 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cassandra-java-driver-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:152 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-core-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:154 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:156 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:158 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-conflict-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:159 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-6.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:161 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-undertow-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:163 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:166 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:167 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-common-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:169 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-netty-socketio-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:171 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpclient-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:173 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/thrift-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:175 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-server-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:176 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:178 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:179 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-light4j-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:181 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-http-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:182 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hbase-1.x-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:183 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/jsonrpc4j-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:184 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/resteasy-server-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:186 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.0-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:187 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/spring-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:188 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-finagle-6.25.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:190 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jdbc-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:191 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:192 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xmemcached-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:193 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xxl-job-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:195 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:196 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-struts2-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:197 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-6.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:197 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-solrj-7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:199 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-2.7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:200 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-resttemplate-4.3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:200 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-vertx-core-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:202 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-avro-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:203 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spymemcached-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:204 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cxf-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:205 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:206 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:207 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:207 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-play-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:208 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:210 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/sofa-rpc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:211 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:211 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:212 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-grpc-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:213 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:214 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/tomcat-7.x-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:215 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hystrix-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:216 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:217 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-asynchttpclient-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:217 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-kafka-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:218 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:219 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:220 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rabbitmq-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:221 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:221 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mariadb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:222 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-pulsar-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:224 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jdbc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:225 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-activemq-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:226 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:227 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-influxdb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:228 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-shardingsphere-4.0.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:228 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpasyncclient-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:229 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:230 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-async-annotation-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:231 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/baidu-brpc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:232 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpClient-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:233 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-concurrent-util-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:234 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.1.0-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:235 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.85.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:236 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-canal-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:237 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-12.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:238 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-kafka-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:239 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-rc3-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:240 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dbcp-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:241 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jedis-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:241 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-lettuce-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:244 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-trace-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:245 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-kafka-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:247 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-1.x-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:248 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-2.x-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:249 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-opentracing-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:250 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-meter-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:251 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-logging-common-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:252 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-logback-1.x-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:02:260 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:260 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.84.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:261 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-postgresql-8.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:261 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-mvc-annotation-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:261 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:261 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jtds-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:262 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:262 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:262 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-ehcache-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:263 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-jdbc-1.5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:263 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:263 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-redisson-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:264 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:264 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:264 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/motan-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:264 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-2.7.x-conflict-patch-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:265 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-feign-default-http-9.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:265 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/spring-webflux-5.x-webclient-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:265 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-quasar-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:265 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-h2-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:266 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-scheduled-annotation-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:266 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:266 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:266 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-0.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:267 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cassandra-java-driver-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:267 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-core-patch-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:267 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-commons-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:267 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-9.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:268 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-conflict-patch-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:268 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-6.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:268 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-undertow-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:269 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:269 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-8.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:269 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-netty-socketio-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:269 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpclient-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:269 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/thrift-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:270 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-server-9.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:270 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:270 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-7.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:270 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-light4j-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:271 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-http-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:271 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hbase-1.x-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:271 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/jsonrpc4j-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:271 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/resteasy-server-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:271 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.0-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:272 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-finagle-6.25.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:272 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:272 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xmemcached-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:272 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xxl-job-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:273 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:273 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-struts2-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:273 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-6.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:274 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-solrj-7.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:274 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-2.7.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:274 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-resttemplate-4.3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:274 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-vertx-core-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:275 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-avro-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:275 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spymemcached-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:275 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cxf-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:275 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:275 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:276 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-play-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:276 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:276 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/sofa-rpc-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:276 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:277 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-8.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:277 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-grpc-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:277 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/tomcat-7.x-8.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:277 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hystrix-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:278 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:278 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-asynchttpclient-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:278 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-kafka-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:279 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:279 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:279 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rabbitmq-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:279 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:280 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mariadb-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:280 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-pulsar-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:280 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jdbc-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:280 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-activemq-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:281 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:281 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-influxdb-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:281 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-shardingsphere-4.0.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:281 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpasyncclient-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:282 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:282 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-async-annotation-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:282 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/baidu-brpc-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:282 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpClient-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:282 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-concurrent-util-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:283 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.1.0-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:283 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.85.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:283 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-canal-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:283 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-12.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:284 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-rc3-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:284 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dbcp-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:284 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jedis-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:284 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-lettuce-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:285 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-trace-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:285 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-kafka-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:285 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-1.x-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:285 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-2.x-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:285 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-opentracing-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:286 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-meter-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:02:286 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-logback-1.x-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 11:48:10:799 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:800 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.84.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:800 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-postgresql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:800 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-mvc-annotation-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:800 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:801 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jtds-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:801 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:801 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:801 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-ehcache-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:802 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-jdbc-1.5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:802 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:802 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-redisson-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:802 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:802 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:802 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/motan-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:803 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-2.7.x-conflict-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:803 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-feign-default-http-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:803 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/spring-webflux-5.x-webclient-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:803 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-quasar-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:803 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-h2-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:803 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpclient-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:804 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-scheduled-annotation-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:804 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:804 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:804 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-0.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:805 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cassandra-java-driver-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:805 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-core-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:805 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:805 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:805 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-conflict-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:806 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-6.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:806 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-undertow-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:806 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:806 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:806 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-common-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:807 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-netty-socketio-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:807 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpclient-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:807 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/thrift-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:807 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-server-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:807 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:807 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:808 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-light4j-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:808 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-http-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:808 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hbase-1.x-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:808 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/jsonrpc4j-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:808 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/resteasy-server-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:808 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.0-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:809 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/spring-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:809 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-finagle-6.25.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:809 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jdbc-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:809 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:809 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xmemcached-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:809 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xxl-job-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:810 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:810 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-struts2-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:810 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-6.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:810 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-solrj-7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:810 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-2.7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:810 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-resttemplate-4.3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:810 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-vertx-core-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:811 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-avro-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:811 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spymemcached-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:811 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cxf-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:811 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:811 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:811 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:812 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-play-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:812 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:812 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/sofa-rpc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:812 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:812 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:813 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-grpc-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:813 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:813 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/tomcat-7.x-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:813 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hystrix-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:813 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:813 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-asynchttpclient-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:814 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-kafka-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:814 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:814 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:814 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rabbitmq-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:814 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:814 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mariadb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:814 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-pulsar-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:815 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jdbc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:815 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-activemq-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:815 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:815 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-influxdb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:815 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-shardingsphere-4.0.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:815 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpasyncclient-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:815 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:816 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-async-annotation-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:816 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/baidu-brpc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:816 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpClient-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:816 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-concurrent-util-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:816 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.1.0-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:816 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.85.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:816 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-canal-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:816 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-12.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:817 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-kafka-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:817 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-rc3-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:818 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dbcp-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:818 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jedis-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:819 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-lettuce-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:819 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-trace-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:819 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-kafka-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:819 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-1.x-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:819 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-2.x-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:820 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-opentracing-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:820 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-meter-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:820 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-logging-common-8.6.0.jar loaded. 
+INFO 2021-07-28 11:48:10:820 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-logback-1.x-activation-8.6.0.jar loaded. 
+ERROR 2021-07-28 11:48:20:683 SkywalkingAgent-6-JVMService-consume-0 JVMMetricsSender : send JVM metrics to Collector fail. 
+org.apache.skywalking.apm.dependencies.io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.toStatusRuntimeException(ClientCalls.java:262)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.getUnchecked(ClientCalls.java:243)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls.blockingUnaryCall(ClientCalls.java:156)
+	at org.apache.skywalking.apm.network.language.agent.v3.JVMMetricReportServiceGrpc$JVMMetricReportServiceBlockingStub.collect(JVMMetricReportServiceGrpc.java:181)
+	at org.apache.skywalking.apm.agent.core.jvm.JVMMetricsSender.run(JVMMetricsSender.java:82)
+	at org.apache.skywalking.apm.util.RunnableWithExceptionProtection.run(RunnableWithExceptionProtection.java:33)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.skywalking.apm.dependencies.io.netty.channel.AbstractChannel$AnnotatedConnectException: Operation timed out: /106.15.152.33:27110
+Caused by: java.net.ConnectException: Operation timed out
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:330)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:702)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+
+ERROR 2021-07-28 11:48:20:682 grpc-default-executor-1 EventReportServiceClient : Failed to report starting event. 
+org.apache.skywalking.apm.dependencies.io.grpc.StatusRuntimeException: UNAVAILABLE: io exception
+	at org.apache.skywalking.apm.dependencies.io.grpc.Status.asRuntimeException(Status.java:533)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls$StreamObserverToCallListenerAdapter.onClose(ClientCalls.java:478)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl.closeObserver(ClientCallImpl.java:413)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl.access$500(ClientCallImpl.java:66)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInternal(ClientCallImpl.java:742)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInContext(ClientCallImpl.java:721)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.skywalking.apm.dependencies.io.netty.channel.AbstractChannel$AnnotatedConnectException: Operation timed out: /106.15.152.33:27110
+Caused by: java.net.ConnectException: Operation timed out
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:330)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:702)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at org.apache.skywalking.apm.dependencies.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at org.apache.skywalking.apm.dependencies.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN 2021-07-28 11:48:21:193 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2021-07-28 11:48:21:193 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.resource.HttpResource is not existed. 
+WARN 2021-07-28 11:48:21:194 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2021-07-28 11:48:34:405 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2021-07-28 11:48:34:405 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.resource.HttpResource is not existed. 
+WARN 2021-07-28 11:48:34:443 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+ERROR 2021-07-28 12:00:00:973 grpc-default-executor-3 EventReportServiceClient : Failed to report shutdown event. 
+org.apache.skywalking.apm.dependencies.io.grpc.StatusRuntimeException: DEADLINE_EXCEEDED: ClientCall started after deadline exceeded: -622.631848271s from now
+	at org.apache.skywalking.apm.dependencies.io.grpc.Status.asRuntimeException(Status.java:533)
+	at org.apache.skywalking.apm.dependencies.io.grpc.stub.ClientCalls$StreamObserverToCallListenerAdapter.onClose(ClientCalls.java:478)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl.closeObserver(ClientCallImpl.java:413)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl.access$500(ClientCallImpl.java:66)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInternal(ClientCallImpl.java:742)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInContext(ClientCallImpl.java:721)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at org.apache.skywalking.apm.dependencies.io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+INFO 2021-07-28 14:22:52:068 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:070 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.84.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:073 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-postgresql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:075 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-mvc-annotation-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:077 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:079 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jtds-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:081 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:083 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:085 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-ehcache-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:087 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-jdbc-1.5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:089 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:091 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-redisson-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:093 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:094 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:096 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/motan-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:097 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-2.7.x-conflict-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:099 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-feign-default-http-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:101 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/spring-webflux-5.x-webclient-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:102 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-quasar-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:104 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-h2-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:105 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpclient-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:106 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-scheduled-annotation-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:107 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:109 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:110 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-0.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:111 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cassandra-java-driver-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:112 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-core-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:113 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:114 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:116 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-conflict-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:117 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-6.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:118 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-undertow-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:119 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:121 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:123 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-common-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:124 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-netty-socketio-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:125 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpclient-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:127 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/thrift-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:128 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-server-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:130 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:131 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:132 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-light4j-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:133 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-http-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:134 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hbase-1.x-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:135 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/jsonrpc4j-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:136 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/resteasy-server-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:137 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.0-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:138 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/spring-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:140 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-finagle-6.25.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:141 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jdbc-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:142 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:143 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xmemcached-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:144 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xxl-job-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:145 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:146 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-struts2-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:147 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-6.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:148 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-solrj-7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:149 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-2.7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:150 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-resttemplate-4.3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:151 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-vertx-core-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:153 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-avro-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:154 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spymemcached-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:155 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cxf-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:156 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:157 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:157 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:158 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-play-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:159 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:160 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/sofa-rpc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:160 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:161 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:162 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-grpc-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:163 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:164 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/tomcat-7.x-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:165 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hystrix-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:166 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:167 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-asynchttpclient-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:168 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-kafka-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:169 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:170 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:171 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rabbitmq-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:172 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:173 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mariadb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:174 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-pulsar-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:175 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jdbc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:176 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-activemq-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:177 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:178 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-influxdb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:179 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-shardingsphere-4.0.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:180 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpasyncclient-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:181 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:182 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-async-annotation-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:183 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/baidu-brpc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:184 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpClient-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:185 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-concurrent-util-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:186 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.1.0-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:187 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.85.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:188 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-canal-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:189 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-12.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:190 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-kafka-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:191 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-rc3-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:191 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dbcp-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:192 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jedis-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:193 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-lettuce-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:195 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-trace-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:197 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-kafka-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:198 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-1.x-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:199 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-2.x-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:200 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-opentracing-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:201 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-meter-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:201 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-logging-common-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:203 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-logback-1.x-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:22:52:210 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:210 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.84.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:210 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-postgresql-8.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:211 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-mvc-annotation-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:211 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:211 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jtds-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:212 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:212 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:212 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-ehcache-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:213 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-jdbc-1.5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:213 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:213 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-redisson-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:214 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:214 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:214 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/motan-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:214 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-2.7.x-conflict-patch-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-feign-default-http-9.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/spring-webflux-5.x-webclient-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-quasar-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-h2-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:215 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-scheduled-annotation-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-0.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:216 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cassandra-java-driver-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-core-patch-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-commons-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-9.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:217 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-conflict-patch-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:218 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-6.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:218 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-undertow-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:219 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:219 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-8.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:220 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-netty-socketio-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:220 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpclient-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:220 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/thrift-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:221 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-server-9.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:221 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:221 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-7.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:221 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-light4j-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:221 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-http-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:222 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hbase-1.x-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:222 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/jsonrpc4j-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:222 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/resteasy-server-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:222 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.0-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:223 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-finagle-6.25.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:223 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:223 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xmemcached-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:223 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xxl-job-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:224 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:224 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-struts2-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:224 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-6.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:224 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-solrj-7.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:224 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-2.7.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:225 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-resttemplate-4.3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:225 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-vertx-core-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:225 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-avro-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:225 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spymemcached-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:226 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cxf-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:226 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:226 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:226 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-play-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:226 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:227 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/sofa-rpc-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:227 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:227 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-8.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:228 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-grpc-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:228 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/tomcat-7.x-8.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:228 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hystrix-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:229 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-3.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:229 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-asynchttpclient-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:229 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-kafka-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:229 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:229 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:230 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rabbitmq-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:230 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:230 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mariadb-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:230 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-pulsar-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:231 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jdbc-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:231 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-activemq-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:231 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:231 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-influxdb-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:231 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-shardingsphere-4.0.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:232 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpasyncclient-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:232 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:232 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-async-annotation-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:232 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/baidu-brpc-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:233 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpClient-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:233 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-concurrent-util-4.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:233 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.1.0-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:233 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.85.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:233 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-canal-1.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:234 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-12.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:234 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-rc3-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:234 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dbcp-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:234 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jedis-2.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:235 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-lettuce-5.x-plugin-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:235 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-trace-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:235 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-kafka-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:236 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-1.x-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:236 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-2.x-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:236 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-opentracing-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:237 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-meter-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:22:52:237 main PluginResourcesResolver : find skywalking plugin define in jar:file:/Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-logback-1.x-activation-8.6.0.jar!/skywalking-plugin.def 
+INFO 2021-07-28 14:23:03:767 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:768 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.84.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:768 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-postgresql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:768 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-mvc-annotation-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:768 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:768 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jtds-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:769 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:769 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:769 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-ehcache-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:769 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-jdbc-1.5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:769 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:770 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-redisson-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:770 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:770 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-cloud-feign-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:770 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/motan-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:770 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-2.7.x-conflict-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:771 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-feign-default-http-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:771 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/spring-webflux-5.x-webclient-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:771 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-quasar-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:773 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-h2-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:773 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpclient-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:773 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-scheduled-annotation-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:773 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:774 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:774 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-0.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:774 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cassandra-java-driver-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:774 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-core-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:774 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:774 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:775 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dubbo-conflict-patch-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:775 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-6.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:776 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-undertow-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:776 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:776 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:776 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-common-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:776 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-netty-socketio-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:776 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpclient-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:777 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/thrift-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:777 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-server-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:777 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-kafka-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:777 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:777 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-light4j-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:777 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-nutz-http-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:778 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hbase-1.x-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:778 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/jsonrpc4j-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:778 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/resteasy-server-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:778 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.0-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:779 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/spring-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:779 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-finagle-6.25.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:780 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jdbc-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:780 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:780 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xmemcached-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:780 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-xxl-job-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:780 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rocketmq-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:781 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-struts2-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:781 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-6.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:781 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-solrj-7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:781 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-2.7.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:781 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-resttemplate-4.3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:781 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-vertx-core-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:782 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-avro-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:782 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spymemcached-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:782 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-cxf-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:782 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-okhttp-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:782 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mysql-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:782 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-servicecomb-java-chassis-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:782 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-play-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:783 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elasticsearch-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:783 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/sofa-rpc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:783 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:783 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:783 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-grpc-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:784 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:784 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/tomcat-7.x-8.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:784 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-hystrix-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:784 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-3.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:784 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-asynchttpclient-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:784 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-kafka-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:784 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-dubbo-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:784 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-elastic-job-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:785 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-rabbitmq-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:785 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-springmvc-annotation-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:785 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mariadb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:785 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-pulsar-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:785 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mssql-jdbc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:785 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-activemq-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:785 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-mongodb-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:786 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-influxdb-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:786 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-shardingsphere-4.0.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:786 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpasyncclient-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:786 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jetty-client-9.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:786 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-async-annotation-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:786 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/baidu-brpc-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:786 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-httpClient-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:787 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-spring-concurrent-util-4.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:787 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.1.0-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:787 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-armeria-0.85.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:787 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-canal-1.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:788 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/graphql-12.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:788 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-kafka-commons-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:788 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-sharding-sphere-4.x-rc3-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:788 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/dbcp-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:788 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-jedis-2.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:788 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/plugins/apm-lettuce-5.x-plugin-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:789 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-trace-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:790 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-kafka-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:790 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-1.x-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:790 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-log4j-2.x-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:790 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-opentracing-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:791 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-meter-activation-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:791 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-logging-common-8.6.0.jar loaded. 
+INFO 2021-07-28 14:23:03:791 main AgentClassLoader : /Users/zhangz/Downloads/apache-skywalking-apm-bin-es7/agent/activations/apm-toolkit-logback-1.x-activation-8.6.0.jar loaded. 
+WARN 2021-07-28 14:23:13:339 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2021-07-28 14:23:13:339 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.resource.HttpResource is not existed. 
+WARN 2021-07-28 14:23:13:340 main AbstractClassEnhancePluginDefine : enhance class org.springframework.boot.autoconfigure.web.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.reactive.ReactiveControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.result.method.InvocableHandlerMethod is not existed. 
+WARN 2021-07-28 14:23:25:203 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+WARN 2021-07-28 14:23:25:204 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.resource.HttpResource is not existed. 
+WARN 2021-07-28 14:23:25:251 main AbstractClassEnhancePluginDefine : enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
